@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "public": true,
   "routes": [
     { "src": "/api/seed", "dest": "/api/seed.js" },
     { "src": "/api/config", "dest": "/api/config.js" },
